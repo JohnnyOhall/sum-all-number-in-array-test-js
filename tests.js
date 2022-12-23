@@ -1,4 +1,4 @@
-const chai = require('chai');
+const chai = require('chai').assert;
 const expect = chai.expect;
 
 const sumItems = require('./index');
